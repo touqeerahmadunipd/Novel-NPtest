@@ -59,22 +59,6 @@ If you use this software in your research, please cite:
 }
 ```
 
----
-
-## Author
-
-**Touqeer Ahmad**
-
-DSTrain-MSCA Research Fellow
-
-Department of Mathematics
-
-University of Oslo, Norway
-
-GitHub: https://github.com/touqeerahmadunipd
-
----
-
 ## License
 
 MIT License
