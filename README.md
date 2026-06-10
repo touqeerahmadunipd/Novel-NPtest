@@ -58,7 +58,3 @@ If you use this software in your research, please cite:
   doi     = {10.1080/00949655.2026.2660176}
 }
 ```
-
-## License
-
-MIT License
