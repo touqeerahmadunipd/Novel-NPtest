@@ -48,11 +48,13 @@ Examples include:
 If you use this software in your research, please cite:
 
 ```bibtex
-@article{HussainAhmad2026,
-  author  = {Abid Hussain and Touqeer Ahmad},
-  title   = {A New Composite Mann--Whitney Test for Two-Sample Survival Comparisons with Right-Censored Data},
-  journal = {Journal of Statistical Computation and Simulation},
-  year    = {2026},
+@article{hussain2026new,
+  title={A new composite Mann-Whitney test for two-sample survival comparisons with right-censored data},
+  author={Hussain, Abid and Ahmad, Touqeer},
+  journal={Journal of Statistical Computation and Simulation},
+  pages={1--21},
+  year={2026},
+  publisher={Taylor \& Francis},
   doi     = {10.1080/00949655.2026.2660176}
 }
 ```
